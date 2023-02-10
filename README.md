@@ -15,3 +15,7 @@ A segunda API serve para traduzir as frases recebidas pela anterior.
 ### Fast Render
 
 Caso a função de "Nova Mensagem" seja executada, automaticamente a frase é alterada.
+
+### Link do Projeto
+
+<a href="luannzin-random-quote.vercel.app" target="_blank">luannzin-random-quote.vercel.app</a>
