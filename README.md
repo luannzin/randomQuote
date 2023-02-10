@@ -19,3 +19,7 @@ Caso a função de "Nova Mensagem" seja executada, automaticamente a frase é al
 ### Link do Projeto
 
 <a href="https://luannzin-random-quote.vercel.app" target="_blank">luannzin-random-quote.vercel.app</a>
+
+## Atenção
+
+Algumas frases podem não fazer sentido por causa da tradução que é realizada.
